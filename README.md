@@ -1,4 +1,3 @@
-# Mean-Variance-and-Cross-Correlation
  AIM:
  To write a program for mean, variance andcross correlation in SCILAB and verify the output.
  EQUIPMENTSNeeded
@@ -74,3 +73,19 @@ endfunction
  0.0375
  Typein thereference sequence = [1 2 3 4 5 6 7 8]
  Typein the secondsequence = [2 1 3 56 3 5 9]
+Evaluation
+ Aim/Procedure Circuit diagram/
+ Program
+ 20
+ 20
+ Simulation/
+ Implementation
+ 20
+ Output/
+ Results/Graph
+ 30
+ Observation
+ &Viva
+ 10
+ RESULT:
+ Thus, the mean, variance and cross correlation are executed in Scilab and output is verified
