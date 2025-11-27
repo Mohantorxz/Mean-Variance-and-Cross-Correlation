@@ -63,7 +63,7 @@ n2=max(size(x))-1;
 r=corr(x,y,n1);
 plot2d3('gnn',r);
 
-Output Waveform
+Calculation
 
 i)Mean of X = 0.25
 Mean of Y = 0.25
@@ -73,6 +73,7 @@ Cross Correlation
 Type in the reference sequence = [1 2 3 4 5 6 7 8]
 Type in the second sequence = [2 1 3 5 6 3 5 9]
 
+Output Waveform
 <img width="756" height="647" alt="image" src="https://github.com/user-attachments/assets/e484ff43-49f5-4154-8e63-1726420adb4a" />
 
 RESULT:
